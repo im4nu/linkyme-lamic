@@ -35,5 +35,5 @@ function fb() {
   )
 }
 function allert() {
-  alertify.success('Você salvou um vida! ❤️');
+  alertify.success('Link copiado! 😊');
 }
