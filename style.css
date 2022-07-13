@@ -43,6 +43,13 @@ header {
   padding: 1.6rem 8rem;
   gap: 1rem;
 }
+.imgs-profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  gap: 10%;
+}
 .container {
   display: flex;
   flex-direction: column;
